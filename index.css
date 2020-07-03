@@ -17,6 +17,11 @@ button {
 
 a {
     text-decoration: none;
+    color: #3e88ff;
+}
+
+a:hover {
+    color: #0b69ff;
 }
 
 .font-typo {
